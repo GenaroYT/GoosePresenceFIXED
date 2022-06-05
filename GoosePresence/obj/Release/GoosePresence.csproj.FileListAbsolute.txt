@@ -1,0 +1,11 @@
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Release\GoosePresence.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Release\GoosePresence.pdb
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Release\DiscordRPC.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Release\GooseModdingAPI.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Release\Newtonsoft.Json.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Release\GooseModdingAPI.pdb
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Release\GoosePresence.csprojAssemblyReference.cache
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Release\GoosePresence.csproj.CoreCompileInputs.cache
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Release\GoosePresence.csproj.CopyComplete
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Release\GoosePresence.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Release\GoosePresence.pdb

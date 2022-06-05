@@ -1,0 +1,11 @@
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Debug\GoosePresence.csprojAssemblyReference.cache
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Debug\GoosePresence.csproj.CoreCompileInputs.cache
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Debug\GoosePresence.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Debug\GoosePresence.pdb
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Debug\DiscordRPC.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Debug\GooseModdingAPI.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\bin\Debug\GooseModdingAPI.pdb
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Debug\GoosePresence.csproj.CopyComplete
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Debug\GoosePresence.dll
+C:\Users\Genaro\Documents\Visual Projects\GoosePresense\GoosePresence\obj\Debug\GoosePresence.pdb
